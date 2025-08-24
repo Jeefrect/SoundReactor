@@ -16,9 +16,28 @@ Visualize music and sounds with keyshapes, emission, and more.
 - **CarX Drift Racing Online** (moddadble version).  
 - **KSL Loader** (ZML is not supported).  
 
+## How to use
+1. Add kino objects on your car.
+2. Open the list of objects in SoundReactor UI panel.  
+3. For each object, assign:  
+- **Low** — bass frequencies (<300 Hz).  
+- **Mid** — midrange frequencies (<1800 Hz).  
+- **High** — treble frequencies (>1800 Hz).  
+- **Volume** — overall loudness.  
+4. Blendshape (keyshapes) weights or emission will react to the chosen frequency band.  
 
 ## Installation
 1. Download the latest release of **SoundReactor**.  
 2. Extract the folder `SoundReactor` into your CarX mods folder (KSL).
 3. Restart the game.
+
+## Community
+- Join the [Discord server](https://discord.gg/stqdmz4GeZ) for support, feedback, and updates.  
+- Report bugs and suggest features via Issues on GitHub.
+
+## Examples
+- Make headlights **flash on bass beats**.  
+- Animate neons with **treble spikes**.  
+- Deform body panels in sync with **overall volume**.
+- Create **sound-responsive** subwoofers.
 
