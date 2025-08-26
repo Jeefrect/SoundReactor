@@ -17,6 +17,7 @@ Visualize music and sounds with keyshapes, emission, and more.
 - **KSL Loader** (ZML is not supported).  
 
 ## How to use
+0. Create an object using keyshapes or emission. How to create objects is written [here](https://github.com/Jeefrect/SoundReactor/blob/main/docs/how-to-make.md), it's easy!
 1. Add kino objects on your car.
 2. Open the list of objects in SoundReactor UI panel.  
 3. For each object, assign:  
@@ -36,6 +37,7 @@ Visualize music and sounds with keyshapes, emission, and more.
 - Report bugs and suggest features via Issues on GitHub.
 
 ## Examples
+- Download test objects to demonstrate the mod in **the Discord server forum**!
 - Make headlights **flash on bass beats**.  
 - Animate neons with **treble spikes**.  
 - Deform body panels in sync with **overall volume**.
