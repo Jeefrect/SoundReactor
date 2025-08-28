@@ -1,5 +1,5 @@
 # SoundReactor
-**SoundReactor** is a CarX mod that connects your system audio to custom objects in the game.  
+**Sound Reactor** is a CarX mod that connects your system audio to custom objects in the game.  
 Visualize music and sounds with keyshapes, emission, and more.
 
 ![Preview](https://raw.githubusercontent.com/Jeefrect/SoundReactor/refs/heads/main/docs/img/BrowserPreview_tmp.gif)
