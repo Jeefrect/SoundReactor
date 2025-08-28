@@ -18,7 +18,8 @@ Visualize music and sounds with keyshapes, emission, and more.
 - **KSL Loader** (ZML is not supported).  
 
 ## How to use
-0. Create an object using keyshapes or emission. How to create objects is written [here](https://github.com/Jeefrect/SoundReactor/blob/main/docs/how-to-make.md), it's easy!
+More detailed documentation on usage is available [**here**](https://github.com/Jeefrect/SoundReactor/blob/main/docs/Documentation.md)
+
 1. Add kino objects on your car.
 2. Open the list of objects in SoundReactor UI panel.  
 3. For each object, assign:  
@@ -27,6 +28,8 @@ Visualize music and sounds with keyshapes, emission, and more.
 - **High** — treble frequencies (>1800 Hz).  
 - **Volume** — overall loudness.  
 4. Blendshape (keyshapes) weights or emission will react to the chosen frequency band.  
+
+How to create objects is written [here](https://github.com/Jeefrect/SoundReactor/blob/main/docs/how-to-make.md), it's easy!
 
 ## Installation
 1. Download the latest release of **SoundReactor**.  
