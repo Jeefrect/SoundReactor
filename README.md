@@ -24,9 +24,9 @@ More detailed documentation on usage is available [**here**](https://github.com/
 1. Add kino objects on your car.
 2. Open the list of objects in SoundReactor UI panel.  
 3. For each object, assign:  
-- **Low** — bass frequencies (<300 Hz).  
-- **Mid** — midrange frequencies (<1800 Hz).  
-- **High** — treble frequencies (>1800 Hz).  
+- **Lows** — bass frequencies (<300 Hz).  
+- **Mids** — midrange frequencies (<1800 Hz).  
+- **Highs** — treble frequencies (>1800 Hz).  
 - **Volume** — overall loudness.  
 4. Blendshape (keyshapes) weights or emission will react to the chosen frequency band.  
 
