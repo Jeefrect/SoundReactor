@@ -10,7 +10,8 @@ Visualize music and sounds with keyshapes, emission, and more.
 - Support for keyshapes (blendshapes) and emission.  
 - Language switching (**EN/RU**).  
 - Adjustable intensity multiplier.  
-- Debug panel with real-time frequency values.  
+- Debug panel with real-time frequency values.
+- Presets
 
 
 ## Requirements
