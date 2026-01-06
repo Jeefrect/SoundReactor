@@ -2,6 +2,8 @@
 
 Suppose you have a ready 3D model of a subwoofer that you want to animate.
 
+You can download this subwoofer model: [Google Drive](https://drive.google.com/file/d/1cWWSwKPyGBSuazcXGc4Q46SMcZszN3yv/view?usp=sharing)
+
 <img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/ab65ef17-6e3d-426d-b641-e8714a65fc03" />
 
 
