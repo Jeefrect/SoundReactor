@@ -8,7 +8,7 @@ Visualize music and sounds with keyshapes, emission, and more.
 - Capture system audio (loopback) directly in-game.  
 - Bind **Low / Mid / High frequencies** or overall **Volume** to any object.  
 - Support for keyshapes (blendshapes) and emission.  
-- Language switching (**EN/RU**).  
+- Language switching (**EN/RU/JP**).  
 - Adjustable intensity multiplier.  
 - Debug panel with real-time frequency values.
 - Presets
